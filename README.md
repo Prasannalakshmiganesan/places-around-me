@@ -39,7 +39,8 @@ Run the Django server and execute the HTML files.
 ![OUTPUT](./images/busanredirect.png)
 ![OUTPUT](./images/incheon.png)
 ![OUTPUT](./images/seoulredirect.png)
-![OUTPUT](./images/daeguredirect.png)
+![OUTPUT](./images/daegu.png)
+![OUTPUT](./images/gwangju.png)
 ![OUTPUT](./images/htmlformap.png)
 
 ## Result:
