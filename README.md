@@ -35,19 +35,14 @@ Run the Django server and execute the HTML files.
 ```
 
 ## Output:
-![OUTPUT](./images/mappro.png)
+![susu1](https://user-images.githubusercontent.com/118610231/229185732-8da81831-15a0-455c-8011-2706f72ddcb5.png)
+![su3](https://user-images.githubusercontent.com/118610231/229185758-dbbf1ce8-4ee0-44b3-9aa2-fb7162c76517.png)
 
-![OUTPUT](./images/busanredirect.png)
+![su2](https://user-images.githubusercontent.com/118610231/229185746-7c27c9d7-b2e8-4021-a8b8-9150fa8a6bde.png)
+![su4](https://user-images.githubusercontent.com/118610231/229185781-70cbb920-f359-41ad-b6cf-eba224ce2718.png)
+![su5](https://user-images.githubusercontent.com/118610231/229185800-bf974622-5d4e-4b93-8185-a49e182db9c2.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/118610231/229185832-fa4106dc-7574-4756-ad33-6f9f8a5d3e5a.png)
 
-![OUTPUT](./images/incheon.png)
-
-![OUTPUT](./images/seoulredirect.png)
-
-![OUTPUT](./images/daegu.png)
-
-![OUTPUT](./images/gwangju.png)
-
-![OUTPUT](./images/htmlformap.png)
 
 ## Result:
 Thus A website to display details about the places in map is successfully executed and displayed.
