@@ -35,13 +35,14 @@ Run the Django server and execute the HTML files.
 ```
 
 ## Output:
-![susu1](https://user-images.githubusercontent.com/118610231/229185732-8da81831-15a0-455c-8011-2706f72ddcb5.png)
-![su3](https://user-images.githubusercontent.com/118610231/229185758-dbbf1ce8-4ee0-44b3-9aa2-fb7162c76517.png)
 
-![su2](https://user-images.githubusercontent.com/118610231/229185746-7c27c9d7-b2e8-4021-a8b8-9150fa8a6bde.png)
-![su4](https://user-images.githubusercontent.com/118610231/229185781-70cbb920-f359-41ad-b6cf-eba224ce2718.png)
-![su5](https://user-images.githubusercontent.com/118610231/229185800-bf974622-5d4e-4b93-8185-a49e182db9c2.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/118610231/229185832-fa4106dc-7574-4756-ad33-6f9f8a5d3e5a.png)
+![susu1](https://user-images.githubusercontent.com/118610231/229186320-f6d4854d-7471-48af-97a5-b71bddb5b0b1.png)
+![su2](https://user-images.githubusercontent.com/118610231/229186332-fd37ee1c-80fe-4a95-851a-f0d400c874bf.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/118610231/229186341-07d4abec-d74d-4f4c-919d-ea0e66e73a79.png)
+![su3](https://user-images.githubusercontent.com/118610231/229186350-39829417-ce41-47d5-ae9c-ab139b166e4d.png)
+![su4](https://user-images.githubusercontent.com/118610231/229186353-38a617f9-8936-462b-a2e7-21d3c42d84e5.png)
+![su5](https://user-images.githubusercontent.com/118610231/229186362-2c33b2b0-0ad4-40d9-aaaa-944f5f7326bb.png)
+
 
 
 ## Result:
